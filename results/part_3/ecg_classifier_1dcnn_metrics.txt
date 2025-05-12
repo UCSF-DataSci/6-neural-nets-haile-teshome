@@ -1,0 +1,9 @@
+model: ecg_classifier_1dcnn
+threshold: 0.3
+accuracy: 0.9582417607307434
+auc: 0.5259009599685669
+precision: 0.14285714285714285
+recall: 0.18181818181818182
+f1_score: 0.16
+confusion_matrix: [[432, 12], [9, 2]]
+----
